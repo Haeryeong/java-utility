@@ -1,0 +1,8 @@
+git 정보 설정
+$ git config --global user.name "Haeryeong Jeong"
+$ git config --global user.email "teuk608@naver.com"
+$ git config --global core.editor vi
+
+정보 설정 후
+C:\Users\l\.gitconfig
+내용 확인
