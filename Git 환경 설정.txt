@@ -6,3 +6,11 @@ $ git config --global core.editor vi
 정보 설정 후
 C:\Users\l\.gitconfig
 내용 확인
+
+
+git add : 변경된 파일 추가
+git status : Git의 워킹 디렉터리, 스테이징 영역, 저장소 간의 파일의 변경 여부 확인
+git commit : 
+git log : 이력 정보 확인
+git diff : 파일 내의 콘텐츠 변경 부분 확인
+git rm : 파일 삭제(파일 삭제 후 커밋을 해야 한다.)
